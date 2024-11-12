@@ -198,7 +198,7 @@ auto_thread.start()
 # Main game loop
 while True:
     game.display_status()
-    action = input("Action: ")
+    action = input("\nAction: ")
     
     if action == '1':
         game.click()
@@ -211,4 +211,4 @@ while True:
         print("Thanks for playing!")
         break
     else:
-        print("Invalid action.")
+        print("Invalid action.")       
