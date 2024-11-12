@@ -1,4 +1,4 @@
-## protoype v1 done
+## Protoype V1 done
 - Saving/loading added
 - Formatting numbers done
 - Base game done
