@@ -28,3 +28,20 @@
 NOTE: THIS IS MY FIRST TIME USING GIT/CREATING MY OWN REPO/FIRST TIME EVERYTHING I AM VERY NEW TO THIS THANK YOU VERY MUCH!
 Thank you for reading this and leave any criticism, comments, or concerns on the repo page thank you.
 11/11/2024 11:36:33 PM
+
+## UPDATED BY ME -MINDART-
+
+## Incremental Clicker v1.5 - GUI Update
+
+Overview
+Incremental Clicker v1.5 - GUI Update introduces an exciting new graphical user interface (GUI) built with Tkinter, offering a smoother and more interactive experience. In addition to the core gameplay features, the update includes intuitive visual elements, new upgrade systems, and a helpful Read For You tutorial directly within the game, guiding players through the new GUI and features.
+
+## What's New in v1.5?
+Brand New GUI: The game now features a sleek, user-friendly interface where all actions, stats, and upgrades are clearly visible.
+
+## Graphical User Interface
+The core of v1.5 is the newly designed GUI. This update replaces the old console-based interface with a graphical window that organizes the key gameplay elements:
+Resource Display: Shows your current resources and uses dynamic number formatting.
+Upgrade Buttons: Buttons for upgrading both click power and auto-collection speed.
+Resource Counter: Displays your current resource count, formatted with readable suffixes like "K" for thousands, "M" for millions, and so on.
+Status Bar: Shows additional stats like your current click power, auto-collection rate, and the cost of upgrades.
